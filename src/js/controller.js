@@ -98,5 +98,6 @@ const init = function () {
   recipeView.addHandlerBookmark(controlAddBookmark);
   addRecipeView.addHandlerUpload(controlAddRecipe);
   console.log('Welcome');
+  console.log('Hi');
 };
 init();
